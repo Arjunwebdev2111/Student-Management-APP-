@@ -4,6 +4,42 @@ Laravel-based app for streamlined student admin. Features: Auth, Mail, CRUD ops,
 # Student Management App 🎓
 
 Welcome to the Student Management App repository! This Laravel 8-based application is designed to streamline student administration, offering essential features for efficient management.
+## KeyFeatures
+# Admin Features:
+
+# Admin Login
+Login as admin to access the admin dashboard.
+
+# Student Management
+- Add Student: Ability to add new student details.
+- Edit Student: Modify existing student information.
+- Remove Student: Option to delete student records.
+- Update Student Details: Capability to update student information.
+
+# Course Management
+- Add Course: Functionality to add new college courses.
+- Edit Course: Modify existing course details.
+- Update Course: Capability to update course information.
+
+# Batch Management
+- Delete Batch: Option to delete ending batches of students.
+
+# Student Features:
+
+# Student Login
+Login as a student to access student-specific features.
+
+# View Classmates
+Ability for students to view details of their fellow classmates.
+
+# View Course Details
+Access to course information relevant to the student's enrollment.
+
+# General Features:
+
+# Responsive Design
+Ensure a user-friendly interface across various devices.
+
 
 ## Installation
 
